@@ -1,7 +1,7 @@
 # to-do-list-application-python
 The command-line to-do list application is a simple yet powerful tool designed to help users manage their tasks efficiently. Users can add new tasks, view their list of tasks, edit existing tasks, and delete tasks as needed. The application will store tasks in a local file, ensuring persistence across sessions.
-DEVELOPED BY PARTHIV MAJUMDAR ON 07-03-2024
-PLEASE FOLLOW THE STEPS OF HOW TO RUN THE PROGRAM
+
+FOLLOW THE STEPS OF HOW TO RUN THE PROGRAM
 ___________________________________________________________________
 
 1) **FOR TASK ADDING**
@@ -13,9 +13,9 @@ ___________________________________________________________________
 4. Display Tasks
 5. Exit
 Enter your choice: 1     
-Enter task description: maths
+Enter task description: Complete Coding Raja Technologies Internship 
 Enter task priority (high/medium/low): high
-Enter due date (DD-MM-YYYY): 12-03-2024
+Enter due date (DD-MM-YYYY): 15-05-2024
 Task added successfully!
 
 _____________________________________________________________________
@@ -29,7 +29,7 @@ _____________________________________________________________________
 4. Display Tasks
 5. Exit
 Enter your choice: 3
-Enter task description to mark as completed: maths
+Enter task description to mark as completed: Complete Coding Raja Technologies Internship 
 Task marked as completed!
 
 ______________________________________________________________________
@@ -43,7 +43,7 @@ ______________________________________________________________________
 4. Display Tasks
 5. Exit
 Enter your choice: 2
-Enter task description to remove: maths
+Enter task description to remove: Complete Coding Raja Technologies Internship
 Task removed successfully!
 
 _______________________________________________________________________
@@ -57,6 +57,6 @@ _______________________________________________________________________
 4. Display Tasks
 5. Exit
 Enter your choice: 4
-✓ toc (Priority: high, Due: 12-04-2024)
+✓ toc (Priority: high, Due: 15-05-2024)
 
 
